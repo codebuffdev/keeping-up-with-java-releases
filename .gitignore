@@ -31,12 +31,28 @@ java-8/.idea
 java-8/.gitignore
 
 java-9/.idea
-java-10/.idea
-java-11/.idea
-java-12/.idea
-java-13/.idea
-java-14/.idea
-java-15/.idea
-java-16/.idea
-java-17/.idea
+java-9/.gitignore
 
+java-10/.idea
+java-10/.gitignore
+
+java-11/.idea
+java-11/.gitignore
+
+java-12/.idea
+java-12/.gitignore
+
+java-13/.idea
+java-13/.gitignore
+
+java-14/.idea
+java-14/.gitignore
+
+java-15/.idea
+java-15/.gitignore
+
+java-16/.idea
+java-16/.gitignore
+
+java-17/.idea
+java-17/.gitignore
