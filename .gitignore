@@ -25,3 +25,16 @@ replay_pid*
 
 #intellij
 .idea
+
+#intellij project
+java-8/.idea
+java-9/.idea
+java-10/.idea
+java-11/.idea
+java-12/.idea
+java-13/.idea
+java-14/.idea
+java-15/.idea
+java-16/.idea
+java-17/.idea
+
