@@ -28,6 +28,8 @@ replay_pid*
 
 #intellij project
 java-8/.idea
+java-8/.gitignore
+
 java-9/.idea
 java-10/.idea
 java-11/.idea
