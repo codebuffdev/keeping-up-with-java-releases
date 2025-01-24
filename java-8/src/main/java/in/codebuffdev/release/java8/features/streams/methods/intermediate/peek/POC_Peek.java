@@ -1,4 +1,4 @@
-package in.codebuffdev.release.java8.features.streams.methods.peek;
+package in.codebuffdev.release.java8.features.streams.methods.intermediate.peek;
 
 import java.util.Arrays;
 import java.util.List;

@@ -1,4 +1,4 @@
-package in.codebuffdev.release.java8.features.streams.methods.max;
+package in.codebuffdev.release.java8.features.streams.methods.terminal.max;
 
 import java.util.stream.Stream;
 

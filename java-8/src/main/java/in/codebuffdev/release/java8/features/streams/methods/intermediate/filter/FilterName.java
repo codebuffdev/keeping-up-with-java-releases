@@ -1,4 +1,4 @@
-package in.codebuffdev.release.java8.features.streams.methods.filter;
+package in.codebuffdev.release.java8.features.streams.methods.intermediate.filter;
 
 import java.util.List;
 import java.util.Objects;

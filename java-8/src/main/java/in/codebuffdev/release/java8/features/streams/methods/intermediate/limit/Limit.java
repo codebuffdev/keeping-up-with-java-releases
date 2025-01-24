@@ -1,4 +1,4 @@
-package in.codebuffdev.release.java8.features.streams.methods.limit;
+package in.codebuffdev.release.java8.features.streams.methods.intermediate.limit;
 
 import java.util.Arrays;
 import java.util.List;

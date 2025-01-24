@@ -1,4 +1,4 @@
-package in.codebuffdev.release.java8.features.streams.methods.forEach;
+package in.codebuffdev.release.java8.features.streams.methods.terminal.forEach;
 
 import java.util.Arrays;
 import java.util.Comparator;

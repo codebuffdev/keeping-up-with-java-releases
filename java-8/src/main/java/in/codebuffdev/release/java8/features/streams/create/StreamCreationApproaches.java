@@ -4,12 +4,6 @@ import java.util.List;
 import java.util.stream.Stream;
 
 public class StreamCreationApproaches {
-    public static void main(String[] args) {
-        // emptyStream().forEach(p -> System.out.print(p + " "));
-        // createWithStreamOf().forEach(p -> System.out.print(p + " "));
-        // createWithStreamBuilder().forEach(p -> System.out.print(p + " "));
-        createStream().forEach(p -> System.out.print(p + " "));
-    }
 
     // approach1: empty stream
     public static Stream<Object> emptyStream() {
@@ -38,5 +32,12 @@ public class StreamCreationApproaches {
     public static Stream<Integer> createStream() {
         List<Integer> integers = List.of(1, 2, 3, 4, 56, 7, 8);
         return integers.stream();
+    }
+
+    public static void main(String[] args) {
+        // emptyStream().forEach(p -> System.out.print(p + " "));
+        // createWithStreamOf().forEach(p -> System.out.print(p + " "));
+        // createWithStreamBuilder().forEach(p -> System.out.print(p + " "));
+        createStream().forEach(p -> System.out.print(p + " "));
     }
 }
