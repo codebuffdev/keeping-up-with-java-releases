@@ -1,4 +1,4 @@
-package in.codebuffdev.release.java8.features.streams.se.foundations;
+package in.codebuffdev.release.java8.features.streams.foundations;
 
 import java.util.stream.Stream;
 

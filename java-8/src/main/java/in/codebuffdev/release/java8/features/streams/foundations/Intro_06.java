@@ -1,4 +1,4 @@
-package in.codebuffdev.release.java8.features.streams.se.foundations;
+package in.codebuffdev.release.java8.features.streams.foundations;
 
 // Print the 1st 2 students from the list of students whose age is less than 25
 
